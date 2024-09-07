@@ -14,7 +14,9 @@ public class Main {
       //  example 2 : s1 = "Netcracker", s2 = "crackrenet" It should return false
 
       // select * from Employee OrderBy salary dec limit 1,1;
-
+         if("Data".equals("Data")){
+             System.out.println("Hi");
+         }
 
     }
 }
